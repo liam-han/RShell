@@ -1,8 +1,8 @@
-# ASSIGNMENT 2: RSHELL
+# SIMPLE SHELL
 
 
 
-RShell is a command shell written in C++ to read a unique and unlimited set of commands. 
+SIMPLE SHELL is a command shell written in C++ to read a unique and unlimited set of commands. 
 For example:
 Single commands
 ```sh
